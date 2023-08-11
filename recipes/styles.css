@@ -3,3 +3,16 @@
     display: block;
     padding: 15px auto;
 }
+
+h1{
+    margin: 0px auto;
+    display: block;
+    padding: 15px auto;
+}
+
+.box-tldr{
+    margin: 0px auto;
+    display: block;
+    padding: 15px auto;
+    background-color: rgba(247, 215, 125, 0.33)
+}
